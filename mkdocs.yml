@@ -1,0 +1,7 @@
+site_name: Numerical Analysis in the Era of Data Science
+theme:
+  name: null
+  custom_dir: 'cinder'
+markdown_extensions:
+  - attr_list
+  - md_in_html
